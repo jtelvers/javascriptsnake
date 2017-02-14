@@ -1,0 +1,2 @@
+# javascriptsnake
+fun game
